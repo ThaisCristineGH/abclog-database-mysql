@@ -1,4 +1,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
 
 # 🚚📦 PROJETO ABCLog – Sistema Completo de Banco de Dados para Logística e Transportadora em (🐬MySQL).
