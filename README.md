@@ -24,7 +24,7 @@ O objetivo central foi criar um ambiente robusto que simule os desafios reais de
   8. Desenvolvi um diagrama para ilustrar os bancos relacionais 
 
 
-## Modelagem e Documentação
+## 📑 Modelagem e Documentação
 O coração da **ABCLog** reside na sua estrutura relacional. Abaixo, você pode conferir o diagrama que projetei para garantir a eficiência do fluxo logístico:
 
 ### Diagrama de Entidade-Relacionamento (DER)
