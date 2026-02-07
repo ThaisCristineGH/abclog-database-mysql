@@ -21,8 +21,12 @@ O objetivo central foi criar um ambiente robusto que simule os desafios reais de
   5. Status de rastreamento em tempo real.
   6. Otimização de rotas e prazos de entrega.
   7. Relatório de Inteligência: desenvolvi um relatório técnico detalhado sobre todo o projeto, documentando as queries de performance e como o banco de dados           sustenta o crescimento da empresa.
-  8. Desenvolvi um diagrama para ilustrar os bancos relacionais 
+  8. Desenvolvi um diagrama para ilustrar os bancos relacionais
 
+## 💡 Ferramentas/técologias:
+  * MySQL
+  * Canva
+  * dbdiagram.io
 
 ## 📑 Modelagem e Documentação
 O coração da **ABCLog** reside na sua estrutura relacional. Abaixo, você pode conferir o diagrama que projetei para garantir a eficiência do fluxo logístico:
